@@ -1,0 +1,817 @@
+Month,Agency,Police Force,Metric,Total
+01/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,7196
+01/01/2019,NYCT Subway,NYPD,All Other Summons,2021
+01/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,383
+01/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,282
+01/01/2019,NYCT Subway,NYPD,Other Arrests,762
+01/01/2019,NYCT,MTAPD,Fare Evasion Summons,1
+01/01/2019,LIRR,MTAPD,Arrests,87
+01/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,19
+01/01/2019,LIRR,MTAPD,All Other Criminal Summons,231
+01/01/2019,MNR,MTAPD,Arrests,54
+01/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,9
+01/01/2019,MNR,MTAPD,All Other Criminal Summons,184
+02/01/2019,NYCT Subway,NYPD,Other Arrests,595
+02/01/2019,NYCT Subway,NYPD,All Other Summons,1595
+02/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,7141
+02/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,259
+02/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,376
+02/01/2019,NYCT,MTAPD,Fare Evasion Summons,0
+02/01/2019,LIRR,MTAPD,All Other Criminal Summons,238
+02/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,31
+02/01/2019,LIRR,MTAPD,Arrests,98
+02/01/2019,MNR,MTAPD,All Other Criminal Summons,184
+02/01/2019,MNR,MTAPD,Arrests,41
+02/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,6
+03/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,6785
+03/01/2019,NYCT Subway,NYPD,Other Arrests,591
+03/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,386
+03/01/2019,NYCT Subway,NYPD,All Other Summons,1544
+03/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,219
+03/01/2019,NYCT,MTAPD,Fare Evasion Summons,0
+03/01/2019,LIRR,MTAPD,All Other Criminal Summons,216
+03/01/2019,LIRR,MTAPD,Arrests,96
+03/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,21
+03/01/2019,MNR,MTAPD,All Other Criminal Summons,235
+03/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,13
+03/01/2019,MNR,MTAPD,Arrests,60
+04/01/2019,NYCT Subway,NYPD,Other Arrests,712
+04/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,6289
+04/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,298
+04/01/2019,NYCT Subway,NYPD,All Other Summons,1354
+04/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,206
+04/01/2019,NYCT,MTAPD,Fare Evasion Summons,0
+04/01/2019,LIRR,MTAPD,Arrests,75
+04/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,27
+04/01/2019,LIRR,MTAPD,All Other Criminal Summons,314
+04/01/2019,MNR,MTAPD,Arrests,43
+04/01/2019,MNR,MTAPD,All Other Criminal Summons,177
+04/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,7
+05/01/2019,NYCT Subway,NYPD,All Other Summons,1330
+05/01/2019,NYCT Subway,NYPD,Other Arrests,652
+05/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,214
+05/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,277
+05/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,6141
+05/01/2019,NYCT,MTAPD,Fare Evasion Summons,1
+05/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,28
+05/01/2019,LIRR,MTAPD,Arrests,69
+05/01/2019,LIRR,MTAPD,All Other Criminal Summons,143
+05/01/2019,MNR,MTAPD,All Other Criminal Summons,165
+05/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,4
+05/01/2019,MNR,MTAPD,Arrests,34
+06/01/2019,NYCT Subway,NYPD,All Other Summons,1040
+06/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,218
+06/01/2019,NYCT Subway,NYPD,Other Arrests,591
+06/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,5828
+06/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,217
+06/01/2019,NYCT,MTAPD,Fare Evasion Summons,7
+06/01/2019,LIRR,MTAPD,All Other Criminal Summons,192
+06/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,16
+06/01/2019,LIRR,MTAPD,Arrests,61
+06/01/2019,MNR,MTAPD,All Other Criminal Summons,187
+06/01/2019,MNR,MTAPD,Arrests,31
+06/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,12
+07/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,6385
+07/01/2019,NYCT Subway,NYPD,Other Arrests,601
+07/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,241
+07/01/2019,NYCT Subway,NYPD,All Other Summons,1443
+07/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,227
+07/01/2019,NYCT,MTAPD,Fare Evasion Summons,34
+07/01/2019,LIRR,MTAPD,All Other Criminal Summons,101
+07/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,69
+07/01/2019,LIRR,MTAPD,Arrests,53
+07/01/2019,MNR,MTAPD,Arrests,26
+07/01/2019,MNR,MTAPD,All Other Criminal Summons,107
+07/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,7
+08/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,5290
+08/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,168
+08/01/2019,NYCT Subway,NYPD,All Other Summons,1405
+08/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,201
+08/01/2019,NYCT Subway,NYPD,Other Arrests,543
+08/01/2019,NYCT,MTAPD,Fare Evasion Summons,47
+08/01/2019,LIRR,MTAPD,All Other Criminal Summons,126
+08/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,20
+08/01/2019,LIRR,MTAPD,Arrests,38
+08/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,3
+08/01/2019,MNR,MTAPD,Arrests,36
+08/01/2019,MNR,MTAPD,All Other Criminal Summons,70
+09/01/2019,NYCT Subway,NYPD,Other Arrests,542
+09/01/2019,NYCT Subway,NYPD,All Other Summons,1225
+09/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,178
+09/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,204
+09/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,5594
+09/01/2019,NYCT,MTAPD,Fare Evasion Summons,43
+09/01/2019,LIRR,MTAPD,Arrests,33
+09/01/2019,LIRR,MTAPD,All Other Criminal Summons,246
+09/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,24
+09/01/2019,MNR,MTAPD,All Other Criminal Summons,119
+09/01/2019,MNR,MTAPD,Arrests,30
+09/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,10
+10/01/2019,NYCT Subway,NYPD,Other Arrests,643
+10/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,223
+10/01/2019,NYCT Subway,NYPD,All Other Summons,1524
+10/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,6676
+10/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,220
+10/01/2019,NYCT,MTAPD,Fare Evasion Summons,85
+10/01/2019,LIRR,MTAPD,Arrests,51
+10/01/2019,LIRR,MTAPD,All Other Criminal Summons,159
+10/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,18
+10/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,6
+10/01/2019,MNR,MTAPD,Arrests,31
+10/01/2019,MNR,MTAPD,All Other Criminal Summons,116
+11/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,5338
+11/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,167
+11/01/2019,NYCT Subway,NYPD,All Other Summons,2187
+11/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,135
+11/01/2019,NYCT Subway,NYPD,Other Arrests,527
+11/01/2019,NYCT,MTAPD,Fare Evasion Summons,168
+11/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,42
+11/01/2019,LIRR,MTAPD,All Other Criminal Summons,86
+11/01/2019,LIRR,MTAPD,Arrests,50
+11/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,12
+11/01/2019,MNR,MTAPD,All Other Criminal Summons,85
+11/01/2019,MNR,MTAPD,Arrests,44
+12/01/2019,NYCT Subway,NYPD,Fare Evasion TABS Summons,4402
+12/01/2019,NYCT Subway,NYPD,Other Arrests,622
+12/01/2019,NYCT Subway,NYPD,All Other Summons,2494
+12/01/2019,NYCT Subway,NYPD,Fare Evasion Criminal Summons,122
+12/01/2019,NYCT Subway,NYPD,Fare Evasion Arrests,153
+12/01/2019,NYCT,MTAPD,Fare Evasion Summons,356
+12/01/2019,LIRR,MTAPD,Arrests,35
+12/01/2019,LIRR,MTAPD,All Other Criminal Summons,236
+12/01/2019,LIRR,MTAPD,Fare Evasion Criminal Summons,15
+12/01/2019,MNR,MTAPD,Fare Evasion Criminal Summons,11
+12/01/2019,MNR,MTAPD,All Other Criminal Summons,143
+12/01/2019,MNR,MTAPD,Arrests,21
+01/01/2020,NYCT Subway,NYPD,Other Arrests,741
+01/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,115
+01/01/2020,NYCT Subway,NYPD,All Other Summons,3861
+01/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,123
+01/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,5985
+01/01/2020,NYCT,MTAPD,Fare Evasion Summons,480
+01/01/2020,LIRR,MTAPD,All Other Criminal Summons,186
+01/01/2020,LIRR,MTAPD,Arrests,46
+01/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,26
+01/01/2020,MNR,MTAPD,Arrests,40
+01/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,12
+01/01/2020,MNR,MTAPD,All Other Criminal Summons,144
+02/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,170
+02/01/2020,NYCT Subway,NYPD,Other Arrests,599
+02/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,6608
+02/01/2020,NYCT Subway,NYPD,All Other Summons,2889
+02/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,156
+02/01/2020,NYCT,MTAPD,Fare Evasion Summons,168
+02/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,10
+02/01/2020,LIRR,MTAPD,All Other Criminal Summons,153
+02/01/2020,LIRR,MTAPD,Arrests,32
+02/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,12
+02/01/2020,MNR,MTAPD,Arrests,20
+02/01/2020,MNR,MTAPD,All Other Criminal Summons,89
+03/01/2020,NYCT Subway,NYPD,All Other Summons,1819
+03/01/2020,NYCT Subway,NYPD,Other Arrests,363
+03/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,4056
+03/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,98
+03/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,121
+03/01/2020,NYCT,MTAPD,Fare Evasion Summons,89
+03/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,22
+03/01/2020,LIRR,MTAPD,Arrests,36
+03/01/2020,LIRR,MTAPD,All Other Criminal Summons,77
+03/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+03/01/2020,MNR,MTAPD,Arrests,19
+03/01/2020,MNR,MTAPD,All Other Criminal Summons,53
+04/01/2020,NYCT Subway,NYPD,All Other Summons,174
+04/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,117
+04/01/2020,NYCT Subway,NYPD,Other Arrests,140
+04/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,8
+04/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,9
+04/01/2020,NYCT,MTAPD,Fare Evasion Summons,0
+04/01/2020,LIRR,MTAPD,All Other Criminal Summons,6
+04/01/2020,LIRR,MTAPD,Arrests,17
+04/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,4
+04/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,4
+04/01/2020,MNR,MTAPD,All Other Criminal Summons,22
+04/01/2020,MNR,MTAPD,Arrests,10
+05/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,18
+05/01/2020,NYCT Subway,NYPD,All Other Summons,261
+05/01/2020,NYCT Subway,NYPD,Other Arrests,202
+05/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,14
+05/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,659
+05/01/2020,NYCT,MTAPD,Fare Evasion Summons,11
+05/01/2020,LIRR,MTAPD,Arrests,31
+05/01/2020,LIRR,MTAPD,All Other Criminal Summons,43
+05/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,27
+05/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+05/01/2020,MNR,MTAPD,Arrests,22
+05/01/2020,MNR,MTAPD,All Other Criminal Summons,48
+06/01/2020,NYCT Subway,NYPD,Other Arrests,132
+06/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,41
+06/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,2
+06/01/2020,NYCT Subway,NYPD,All Other Summons,253
+06/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,1
+06/01/2020,NYCT,MTAPD,Fare Evasion Summons,1
+06/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,11
+06/01/2020,LIRR,MTAPD,All Other Criminal Summons,20
+06/01/2020,LIRR,MTAPD,Arrests,6
+06/01/2020,MNR,MTAPD,Arrests,12
+06/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+06/01/2020,MNR,MTAPD,All Other Criminal Summons,15
+07/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,2
+07/01/2020,NYCT Subway,NYPD,Other Arrests,75
+07/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,1
+07/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,87
+07/01/2020,NYCT Subway,NYPD,All Other Summons,66
+07/01/2020,NYCT,MTAPD,Fare Evasion Summons,0
+07/01/2020,LIRR,MTAPD,Arrests,10
+07/01/2020,LIRR,MTAPD,All Other Criminal Summons,16
+07/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,5
+07/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+07/01/2020,MNR,MTAPD,Arrests,10
+07/01/2020,MNR,MTAPD,All Other Criminal Summons,14
+08/01/2020,NYCT Subway,NYPD,Other Arrests,148
+08/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,0
+08/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,1
+08/01/2020,NYCT Subway,NYPD,All Other Summons,96
+08/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,207
+08/01/2020,NYCT,MTAPD,Fare Evasion Summons,0
+08/01/2020,LIRR,MTAPD,All Other Criminal Summons,15
+08/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,6
+08/01/2020,LIRR,MTAPD,Arrests,27
+08/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+08/01/2020,MNR,MTAPD,Arrests,14
+08/01/2020,MNR,MTAPD,All Other Criminal Summons,18
+09/01/2020,NYCT Subway,NYPD,Other Arrests,147
+09/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,681
+09/01/2020,NYCT Subway,NYPD,All Other Summons,177
+09/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,6
+09/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,5
+09/01/2020,NYCT,MTAPD,Fare Evasion Summons,3
+09/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,12
+09/01/2020,LIRR,MTAPD,Arrests,17
+09/01/2020,LIRR,MTAPD,All Other Criminal Summons,28
+09/01/2020,MNR,MTAPD,All Other Criminal Summons,22
+09/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,3
+09/01/2020,MNR,MTAPD,Arrests,15
+10/01/2020,NYCT Subway,NYPD,All Other Summons,350
+10/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,18
+10/01/2020,NYCT Subway,NYPD,Other Arrests,286
+10/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,1620
+10/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,24
+10/01/2020,NYCT,MTAPD,Fare Evasion Summons,2
+10/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,17
+10/01/2020,LIRR,MTAPD,Arrests,27
+10/01/2020,LIRR,MTAPD,All Other Criminal Summons,58
+10/01/2020,MNR,MTAPD,All Other Criminal Summons,43
+10/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,2
+10/01/2020,MNR,MTAPD,Arrests,22
+11/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,45
+11/01/2020,NYCT Subway,NYPD,All Other Summons,445
+11/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,25
+11/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,2858
+11/01/2020,NYCT Subway,NYPD,Other Arrests,211
+11/01/2020,NYCT,MTAPD,Fare Evasion Summons,9
+11/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,12
+11/01/2020,LIRR,MTAPD,All Other Criminal Summons,49
+11/01/2020,LIRR,MTAPD,Arrests,17
+11/01/2020,MNR,MTAPD,All Other Criminal Summons,24
+11/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+11/01/2020,MNR,MTAPD,Arrests,16
+12/01/2020,NYCT Subway,NYPD,Other Arrests,330
+12/01/2020,NYCT Subway,NYPD,Fare Evasion Criminal Summons,97
+12/01/2020,NYCT Subway,NYPD,Fare Evasion TABS Summons,5596
+12/01/2020,NYCT Subway,NYPD,Fare Evasion Arrests,44
+12/01/2020,NYCT Subway,NYPD,All Other Summons,828
+12/01/2020,NYCT,MTAPD,Fare Evasion Summons,2
+12/01/2020,LIRR,MTAPD,Fare Evasion Criminal Summons,9
+12/01/2020,LIRR,MTAPD,Arrests,14
+12/01/2020,LIRR,MTAPD,All Other Criminal Summons,39
+12/01/2020,MNR,MTAPD,Arrests,20
+12/01/2020,MNR,MTAPD,All Other Criminal Summons,16
+12/01/2020,MNR,MTAPD,Fare Evasion Criminal Summons,1
+01/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,76
+01/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,5523
+01/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,89
+01/01/2021,NYCT Subway,NYPD,All Other Summons,824
+01/01/2021,NYCT Subway,NYPD,Other Arrests,345
+01/01/2021,NYCT,MTAPD,Fare Evasion Summons,8
+01/01/2021,LIRR,MTAPD,All Other Criminal Summons,29
+01/01/2021,LIRR,MTAPD,Arrests,26
+01/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,8
+01/01/2021,MNR,MTAPD,All Other Criminal Summons,26
+01/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,2
+01/01/2021,MNR,MTAPD,Arrests,21
+02/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,5224
+02/01/2021,NYCT Subway,NYPD,Other Arrests,298
+02/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,85
+02/01/2021,NYCT Subway,NYPD,All Other Summons,994
+02/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,60
+02/01/2021,NYCT,MTAPD,Fare Evasion Summons,10
+02/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,10
+02/01/2021,LIRR,MTAPD,Arrests,25
+02/01/2021,LIRR,MTAPD,All Other Criminal Summons,69
+02/01/2021,MNR,MTAPD,All Other Criminal Summons,28
+02/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,1
+02/01/2021,MNR,MTAPD,Arrests,12
+03/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,120
+03/01/2021,NYCT Subway,NYPD,Other Arrests,384
+03/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,96
+03/01/2021,NYCT Subway,NYPD,All Other Summons,1196
+03/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,7236
+03/01/2021,NYCT,MTAPD,Fare Evasion Summons,18
+03/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,23
+03/01/2021,LIRR,MTAPD,Arrests,8
+03/01/2021,LIRR,MTAPD,All Other Criminal Summons,37
+03/01/2021,MNR,MTAPD,All Other Criminal Summons,44
+03/01/2021,MNR,MTAPD,Arrests,35
+03/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,3
+04/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,72
+04/01/2021,NYCT Subway,NYPD,Other Arrests,338
+04/01/2021,NYCT Subway,NYPD,All Other Summons,1215
+04/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,62
+04/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,5331
+04/01/2021,NYCT,MTAPD,Fare Evasion Summons,8
+04/01/2021,LIRR,MTAPD,Arrests,15
+04/01/2021,LIRR,MTAPD,All Other Criminal Summons,11
+04/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,14
+04/01/2021,MNR,MTAPD,Arrests,21
+04/01/2021,MNR,MTAPD,All Other Criminal Summons,31
+04/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,1
+05/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,80
+05/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,81
+05/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,5540
+05/01/2021,NYCT Subway,NYPD,All Other Summons,1342
+05/01/2021,NYCT Subway,NYPD,Other Arrests,381
+05/01/2021,NYCT,MTAPD,Fare Evasion Summons,18
+05/01/2021,LIRR,MTAPD,All Other Criminal Summons,49
+05/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,9
+05/01/2021,LIRR,MTAPD,Arrests,30
+05/01/2021,MNR,MTAPD,All Other Criminal Summons,17
+05/01/2021,MNR,MTAPD,Arrests,21
+05/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,1
+06/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,69
+06/01/2021,NYCT Subway,NYPD,All Other Summons,1000
+06/01/2021,NYCT Subway,NYPD,Other Arrests,422
+06/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,73
+06/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4277
+06/01/2021,NYCT,MTAPD,Fare Evasion Summons,43
+06/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,9
+06/01/2021,LIRR,MTAPD,Arrests,31
+06/01/2021,LIRR,MTAPD,All Other Criminal Summons,85
+06/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,2
+06/01/2021,MNR,MTAPD,Arrests,18
+06/01/2021,MNR,MTAPD,All Other Criminal Summons,18
+07/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4507
+07/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,101
+07/01/2021,NYCT Subway,NYPD,Other Arrests,411
+07/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,87
+07/01/2021,NYCT Subway,NYPD,All Other Summons,910
+07/01/2021,NYCT,MTAPD,Fare Evasion Summons,36
+07/01/2021,LIRR,MTAPD,Arrests,23
+07/01/2021,LIRR,MTAPD,All Other Criminal Summons,83
+07/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,38
+07/01/2021,MNR,MTAPD,All Other Criminal Summons,34
+07/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,2
+07/01/2021,MNR,MTAPD,Arrests,23
+08/01/2021,NYCT Subway,NYPD,All Other Summons,867
+08/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,106
+08/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4562
+08/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,58
+08/01/2021,NYCT Subway,NYPD,Other Arrests,446
+08/01/2021,NYCT,MTAPD,Fare Evasion Summons,30
+08/01/2021,LIRR,MTAPD,All Other Criminal Summons,75
+08/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,31
+08/01/2021,LIRR,MTAPD,Arrests,19
+08/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,1
+08/01/2021,MNR,MTAPD,Arrests,20
+08/01/2021,MNR,MTAPD,All Other Criminal Summons,23
+09/01/2021,NYCT Subway,NYPD,Other Arrests,472
+09/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,69
+09/01/2021,NYCT Subway,NYPD,All Other Summons,1038
+09/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4538
+09/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,91
+09/01/2021,NYCT,MTAPD,Fare Evasion Summons,19
+09/01/2021,LIRR,MTAPD,All Other Criminal Summons,80
+09/01/2021,LIRR,MTAPD,Arrests,23
+09/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,21
+09/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,1
+09/01/2021,MNR,MTAPD,All Other Criminal Summons,28
+09/01/2021,MNR,MTAPD,Arrests,22
+10/01/2021,NYCT Subway,NYPD,All Other Summons,1310
+10/01/2021,NYCT Subway,NYPD,Other Arrests,522
+10/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,5204
+10/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,117
+10/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,71
+10/01/2021,NYCT,MTAPD,Fare Evasion Summons,14
+10/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,38
+10/01/2021,LIRR,MTAPD,Arrests,24
+10/01/2021,LIRR,MTAPD,All Other Criminal Summons,40
+10/01/2021,MNR,MTAPD,Arrests,40
+10/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,0
+10/01/2021,MNR,MTAPD,All Other Criminal Summons,39
+11/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4720
+11/01/2021,NYCT Subway,NYPD,Other Arrests,480
+11/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,93
+11/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,75
+11/01/2021,NYCT Subway,NYPD,All Other Summons,1191
+11/01/2021,NYCT,MTAPD,Fare Evasion Summons,57
+11/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,18
+11/01/2021,LIRR,MTAPD,Arrests,24
+11/01/2021,LIRR,MTAPD,All Other Criminal Summons,53
+11/01/2021,MNR,MTAPD,All Other Criminal Summons,32
+11/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,4
+11/01/2021,MNR,MTAPD,Arrests,27
+12/01/2021,NYCT Subway,NYPD,Fare Evasion Criminal Summons,61
+12/01/2021,NYCT Subway,NYPD,Fare Evasion Arrests,105
+12/01/2021,NYCT Subway,NYPD,Fare Evasion TABS Summons,4649
+12/01/2021,NYCT Subway,NYPD,All Other Summons,1118
+12/01/2021,NYCT Subway,NYPD,Other Arrests,473
+12/01/2021,NYCT,MTAPD,Fare Evasion Summons,108
+12/01/2021,LIRR,MTAPD,Arrests,26
+12/01/2021,LIRR,MTAPD,Fare Evasion Criminal Summons,26
+12/01/2021,LIRR,MTAPD,All Other Criminal Summons,69
+12/01/2021,MNR,MTAPD,All Other Criminal Summons,61
+12/01/2021,MNR,MTAPD,Fare Evasion Criminal Summons,3
+12/01/2021,MNR,MTAPD,Arrests,26
+01/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,73
+01/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,93
+01/01/2022,NYCT Subway,NYPD,All Other Summons,1367
+01/01/2022,NYCT Subway,NYPD,Other Arrests,434
+01/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,5675
+01/01/2022,NYCT,MTAPD,Fare Evasion Summons,41
+01/01/2022,LIRR,MTAPD,All Other Criminal Summons,32
+01/01/2022,LIRR,MTAPD,Arrests,37
+01/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,24
+01/01/2022,MNR,MTAPD,Arrests,19
+01/01/2022,MNR,MTAPD,All Other Criminal Summons,35
+01/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,3
+02/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,5407
+02/01/2022,NYCT Subway,NYPD,Other Arrests,579
+02/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,129
+02/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,87
+02/01/2022,NYCT Subway,NYPD,All Other Summons,1602
+02/01/2022,NYCT,MTAPD,Fare Evasion Summons,41
+02/01/2022,LIRR,MTAPD,All Other Criminal Summons,54
+02/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,11
+02/01/2022,LIRR,MTAPD,Arrests,31
+02/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,4
+02/01/2022,MNR,MTAPD,All Other Criminal Summons,25
+02/01/2022,MNR,MTAPD,Arrests,39
+03/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,69
+03/01/2022,NYCT Subway,NYPD,Other Arrests,710
+03/01/2022,NYCT Subway,NYPD,All Other Summons,1917
+03/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,129
+03/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,6192
+03/01/2022,NYCT,MTAPD,Fare Evasion Summons,26
+03/01/2022,LIRR,MTAPD,All Other Criminal Summons,54
+03/01/2022,LIRR,MTAPD,Arrests,51
+03/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,10
+03/01/2022,MNR,MTAPD,Arrests,34
+03/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,6
+03/01/2022,MNR,MTAPD,All Other Criminal Summons,28
+04/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,8026
+04/01/2022,NYCT Subway,NYPD,Other Arrests,510
+04/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,179
+04/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,92
+04/01/2022,NYCT Subway,NYPD,All Other Summons,2497
+04/01/2022,NYCT,MTAPD,Fare Evasion Summons,24
+04/01/2022,LIRR,MTAPD,Arrests,24
+04/01/2022,LIRR,MTAPD,All Other Criminal Summons,42
+04/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,16
+04/01/2022,MNR,MTAPD,Arrests,25
+04/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,1
+04/01/2022,MNR,MTAPD,All Other Criminal Summons,33
+05/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,100
+05/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,8294
+05/01/2022,NYCT Subway,NYPD,All Other Summons,2875
+05/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,238
+05/01/2022,NYCT Subway,NYPD,Other Arrests,591
+05/01/2022,NYCT,MTAPD,Fare Evasion Summons,25
+05/01/2022,LIRR,MTAPD,Arrests,34
+05/01/2022,LIRR,MTAPD,All Other Criminal Summons,47
+05/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,26
+05/01/2022,MNR,MTAPD,Arrests,26
+05/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,0
+05/01/2022,MNR,MTAPD,All Other Criminal Summons,19
+06/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,164
+06/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,80
+06/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,6725
+06/01/2022,NYCT Subway,NYPD,All Other Summons,3230
+06/01/2022,NYCT Subway,NYPD,Other Arrests,578
+06/01/2022,NYCT,MTAPD,Fare Evasion Summons,25
+06/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,23
+06/01/2022,LIRR,MTAPD,All Other Criminal Summons,42
+06/01/2022,LIRR,MTAPD,Arrests,46
+06/01/2022,MNR,MTAPD,All Other Criminal Summons,15
+06/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,2
+06/01/2022,MNR,MTAPD,Arrests,25
+07/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,174
+07/01/2022,NYCT Subway,NYPD,All Other Summons,2741
+07/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,6901
+07/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,80
+07/01/2022,NYCT Subway,NYPD,Other Arrests,473
+07/01/2022,NYCT,MTAPD,Fare Evasion Summons,26
+07/01/2022,LIRR,MTAPD,All Other Criminal Summons,42
+07/01/2022,LIRR,MTAPD,Arrests,37
+07/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,17
+07/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,0
+07/01/2022,MNR,MTAPD,All Other Criminal Summons,10
+07/01/2022,MNR,MTAPD,Arrests,22
+08/01/2022,NYCT Subway,NYPD,Other Arrests,482
+08/01/2022,NYCT Subway,NYPD,All Other Summons,3137
+08/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,127
+08/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,7759
+08/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,172
+08/01/2022,NYCT,MTAPD,Fare Evasion Summons,30
+08/01/2022,LIRR,MTAPD,Arrests,28
+08/01/2022,LIRR,MTAPD,All Other Criminal Summons,117
+08/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,16
+08/01/2022,MNR,MTAPD,All Other Criminal Summons,9
+08/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,0
+08/01/2022,MNR,MTAPD,Arrests,20
+09/01/2022,NYCT Subway,NYPD,Other Arrests,555
+09/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,92
+09/01/2022,NYCT Subway,NYPD,All Other Summons,3244
+09/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,7723
+09/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,170
+09/01/2022,NYCT,MTAPD,Fare Evasion Summons,35
+09/01/2022,LIRR,MTAPD,Arrests,26
+09/01/2022,LIRR,MTAPD,All Other Criminal Summons,184
+09/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,23
+09/01/2022,MNR,MTAPD,All Other Criminal Summons,21
+09/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,6
+09/01/2022,MNR,MTAPD,Arrests,33
+10/01/2022,NYCT Subway,NYPD,All Other Summons,3672
+10/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,88
+10/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,186
+10/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,7965
+10/01/2022,NYCT Subway,NYPD,Other Arrests,644
+10/01/2022,NYCT,MTAPD,Fare Evasion Summons,52
+10/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,15
+10/01/2022,LIRR,MTAPD,All Other Criminal Summons,85
+10/01/2022,LIRR,MTAPD,Arrests,35
+10/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,6
+10/01/2022,MNR,MTAPD,All Other Criminal Summons,19
+10/01/2022,MNR,MTAPD,Arrests,31
+11/01/2022,NYCT Subway,NYPD,All Other Summons,2981
+11/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,104
+11/01/2022,NYCT Subway,NYPD,Other Arrests,625
+11/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,7829
+11/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,238
+11/01/2022,NYCT,MTAPD,Fare Evasion Summons,391
+11/01/2022,LIRR,MTAPD,All Other Criminal Summons,61
+11/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,66
+11/01/2022,LIRR,MTAPD,Arrests,42
+11/01/2022,MNR,MTAPD,Arrests,36
+11/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,7
+11/01/2022,MNR,MTAPD,All Other Criminal Summons,9
+12/01/2022,NYCT Subway,NYPD,Fare Evasion Arrests,231
+12/01/2022,NYCT Subway,NYPD,Fare Evasion Criminal Summons,109
+12/01/2022,NYCT Subway,NYPD,Fare Evasion TABS Summons,8166
+12/01/2022,NYCT Subway,NYPD,All Other Summons,2743
+12/01/2022,NYCT Subway,NYPD,Other Arrests,619
+12/01/2022,NYCT,MTAPD,Fare Evasion Summons,398
+12/01/2022,LIRR,MTAPD,All Other Criminal Summons,22
+12/01/2022,LIRR,MTAPD,Fare Evasion Criminal Summons,24
+12/01/2022,LIRR,MTAPD,Arrests,48
+12/01/2022,MNR,MTAPD,Arrests,29
+12/01/2022,MNR,MTAPD,Fare Evasion Criminal Summons,3
+12/01/2022,MNR,MTAPD,All Other Criminal Summons,21
+01/01/2023,NYCT Subway,NYPD,All Other Summons,3246
+01/01/2023,NYCT Subway,NYPD,Other Arrests,701
+01/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,10545
+01/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,134
+01/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,344
+01/01/2023,NYCT,MTAPD,Fare Evasion Summons,452
+01/01/2023,LIRR,MTAPD,Arrests,56
+01/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,20
+01/01/2023,LIRR,MTAPD,All Other Criminal Summons,80
+01/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,2
+01/01/2023,MNR,MTAPD,All Other Criminal Summons,16
+01/01/2023,MNR,MTAPD,Arrests,41
+02/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,112
+02/01/2023,NYCT Subway,NYPD,Other Arrests,676
+02/01/2023,NYCT Subway,NYPD,All Other Summons,3052
+02/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,342
+02/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,8929
+02/01/2023,NYCT,MTAPD,Fare Evasion Summons,459
+02/01/2023,LIRR,MTAPD,All Other Criminal Summons,62
+02/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,21
+02/01/2023,LIRR,MTAPD,Arrests,33
+02/01/2023,MNR,MTAPD,Arrests,53
+02/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,4
+02/01/2023,MNR,MTAPD,All Other Criminal Summons,12
+03/01/2023,NYCT Subway,NYPD,All Other Summons,3602
+03/01/2023,NYCT Subway,NYPD,Other Arrests,713
+03/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,9460
+03/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,105
+03/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,341
+03/01/2023,NYCT,MTAPD,Fare Evasion Summons,542
+03/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,51
+03/01/2023,LIRR,MTAPD,All Other Criminal Summons,152
+03/01/2023,LIRR,MTAPD,Arrests,56
+03/01/2023,MNR,MTAPD,All Other Criminal Summons,29
+03/01/2023,MNR,MTAPD,Arrests,49
+03/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,5
+04/01/2023,NYCT Subway,NYPD,All Other Summons,3734
+04/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,86
+04/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,10813
+04/01/2023,NYCT Subway,NYPD,Other Arrests,722
+04/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,338
+04/01/2023,NYCT,MTAPD,Fare Evasion Summons,485
+04/01/2023,LIRR,MTAPD,All Other Criminal Summons,121
+04/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,46
+04/01/2023,LIRR,MTAPD,Arrests,71
+04/01/2023,MNR,MTAPD,Arrests,40
+04/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,9
+04/01/2023,MNR,MTAPD,All Other Criminal Summons,33
+05/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,452
+05/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,115
+05/01/2023,NYCT Subway,NYPD,Other Arrests,805
+05/01/2023,NYCT Subway,NYPD,All Other Summons,4176
+05/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,12026
+05/01/2023,NYCT,MTAPD,Fare Evasion Summons,648
+05/01/2023,LIRR,MTAPD,All Other Criminal Summons,94
+05/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,33
+05/01/2023,LIRR,MTAPD,Arrests,52
+05/01/2023,MNR,MTAPD,All Other Criminal Summons,39
+05/01/2023,MNR,MTAPD,Arrests,49
+05/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,6
+06/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,102
+06/01/2023,NYCT Subway,NYPD,All Other Summons,4301
+06/01/2023,NYCT Subway,NYPD,Other Arrests,737
+06/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,436
+06/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,11050
+06/01/2023,NYCT,MTAPD,Fare Evasion Summons,625
+06/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,62
+06/01/2023,LIRR,MTAPD,Arrests,88
+06/01/2023,LIRR,MTAPD,All Other Criminal Summons,107
+06/01/2023,MNR,MTAPD,Arrests,48
+06/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,6
+06/01/2023,MNR,MTAPD,All Other Criminal Summons,70
+07/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,10489
+07/01/2023,NYCT Subway,NYPD,Other Arrests,691
+07/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,363
+07/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,109
+07/01/2023,NYCT Subway,NYPD,All Other Summons,4466
+07/01/2023,NYCT,MTAPD,Fare Evasion Summons,570
+07/01/2023,LIRR,MTAPD,Arrests,60
+07/01/2023,LIRR,MTAPD,All Other Criminal Summons,98
+07/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,62
+07/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,10
+07/01/2023,MNR,MTAPD,Arrests,48
+07/01/2023,MNR,MTAPD,All Other Criminal Summons,46
+08/01/2023,NYCT Subway,NYPD,All Other Summons,5053
+08/01/2023,NYCT Subway,NYPD,Other Arrests,794
+08/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,10682
+08/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,435
+08/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,108
+08/01/2023,NYCT,MTAPD,Fare Evasion Summons,314
+08/01/2023,LIRR,MTAPD,Arrests,86
+08/01/2023,LIRR,MTAPD,All Other Criminal Summons,183
+08/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,45
+08/01/2023,MNR,MTAPD,All Other Criminal Summons,88
+08/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,13
+08/01/2023,MNR,MTAPD,Arrests,55
+09/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,11034
+09/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,442
+09/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,109
+09/01/2023,NYCT Subway,NYPD,All Other Summons,4834
+09/01/2023,NYCT Subway,NYPD,Other Arrests,696
+09/01/2023,NYCT,MTAPD,Fare Evasion Summons,233
+09/01/2023,LIRR,MTAPD,All Other Criminal Summons,118
+09/01/2023,LIRR,MTAPD,Arrests,80
+09/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,44
+09/01/2023,MNR,MTAPD,All Other Criminal Summons,74
+09/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,7
+09/01/2023,MNR,MTAPD,Arrests,55
+10/01/2023,NYCT Subway,NYPD,Other Arrests,755
+10/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,11013
+10/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,518
+10/01/2023,NYCT Subway,NYPD,All Other Summons,4800
+10/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,130
+10/01/2023,NYCT,MTAPD,Fare Evasion Summons,293
+10/01/2023,LIRR,MTAPD,Arrests,85
+10/01/2023,LIRR,MTAPD,All Other Criminal Summons,58
+10/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,59
+10/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,7
+10/01/2023,MNR,MTAPD,All Other Criminal Summons,51
+10/01/2023,MNR,MTAPD,Arrests,84
+11/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,470
+11/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,10329
+11/01/2023,NYCT Subway,NYPD,Other Arrests,774
+11/01/2023,NYCT Subway,NYPD,All Other Summons,4529
+11/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,94
+11/01/2023,NYCT,MTAPD,Fare Evasion Summons,165
+11/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,75
+11/01/2023,LIRR,MTAPD,Arrests,75
+11/01/2023,LIRR,MTAPD,All Other Criminal Summons,42
+11/01/2023,MNR,MTAPD,All Other Criminal Summons,25
+11/01/2023,MNR,MTAPD,Arrests,54
+11/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,9
+12/01/2023,NYCT Subway,NYPD,All Other Summons,4613
+12/01/2023,NYCT Subway,NYPD,Fare Evasion Arrests,369
+12/01/2023,NYCT Subway,NYPD,Fare Evasion TABS Summons,8837
+12/01/2023,NYCT Subway,NYPD,Fare Evasion Criminal Summons,98
+12/01/2023,NYCT Subway,NYPD,Other Arrests,714
+12/01/2023,NYCT,MTAPD,Fare Evasion Summons,107
+12/01/2023,LIRR,MTAPD,Arrests,85
+12/01/2023,LIRR,MTAPD,Fare Evasion Criminal Summons,96
+12/01/2023,LIRR,MTAPD,All Other Criminal Summons,125
+12/01/2023,MNR,MTAPD,All Other Criminal Summons,98
+12/01/2023,MNR,MTAPD,Arrests,51
+12/01/2023,MNR,MTAPD,Fare Evasion Criminal Summons,7
+01/01/2024,NYCT Subway,NYPD,All Other Summons,5371
+01/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,11008
+01/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,624
+01/01/2024,NYCT Subway,NYPD,Other Arrests,909
+01/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,145
+01/01/2024,NYCT,MTAPD,Fare Evasion Summons,412
+01/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,101
+01/01/2024,LIRR,MTAPD,All Other Criminal Summons,119
+01/01/2024,LIRR,MTAPD,Arrests,130
+01/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,11
+01/01/2024,MNR,MTAPD,All Other Criminal Summons,47
+01/01/2024,MNR,MTAPD,Arrests,87
+02/01/2024,NYCT Subway,NYPD,All Other Summons,6306
+02/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,9746
+02/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,536
+02/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,100
+02/01/2024,NYCT Subway,NYPD,Other Arrests,932
+02/01/2024,NYCT,MTAPD,Fare Evasion Summons,239
+02/01/2024,LIRR,MTAPD,Arrests,78
+02/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,100
+02/01/2024,LIRR,MTAPD,All Other Criminal Summons,72
+02/01/2024,MNR,MTAPD,Arrests,46
+02/01/2024,MNR,MTAPD,All Other Criminal Summons,30
+02/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,11
+03/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,589
+03/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,10868
+03/01/2024,NYCT Subway,NYPD,Other Arrests,995
+03/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,115
+03/01/2024,NYCT Subway,NYPD,All Other Summons,6495
+03/01/2024,NYCT,MTAPD,Fare Evasion Summons,220
+03/01/2024,LIRR,MTAPD,All Other Criminal Summons,150
+03/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,56
+03/01/2024,LIRR,MTAPD,Arrests,120
+03/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,6
+03/01/2024,MNR,MTAPD,Arrests,124
+03/01/2024,MNR,MTAPD,All Other Criminal Summons,194
+04/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,10898
+04/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,770
+04/01/2024,NYCT Subway,NYPD,Other Arrests,962
+04/01/2024,NYCT Subway,NYPD,All Other Summons,5598
+04/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,114
+04/01/2024,NYCT,MTAPD,Fare Evasion Summons,223
+04/01/2024,LIRR,MTAPD,All Other Criminal Summons,111
+04/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,50
+04/01/2024,LIRR,MTAPD,Arrests,137
+04/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,10
+04/01/2024,MNR,MTAPD,All Other Criminal Summons,174
+04/01/2024,MNR,MTAPD,Arrests,106
+05/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,12389
+05/01/2024,NYCT Subway,NYPD,Other Arrests,997
+05/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,141
+05/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,781
+05/01/2024,NYCT Subway,NYPD,All Other Summons,5763
+05/01/2024,NYCT,MTAPD,Fare Evasion Summons,322
+05/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,55
+05/01/2024,LIRR,MTAPD,Arrests,145
+05/01/2024,LIRR,MTAPD,All Other Criminal Summons,201
+05/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,8
+05/01/2024,MNR,MTAPD,Arrests,86
+05/01/2024,MNR,MTAPD,All Other Criminal Summons,315
+06/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,873
+06/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,130
+06/01/2024,NYCT Subway,NYPD,All Other Summons,5547
+06/01/2024,NYCT Subway,NYPD,Other Arrests,973
+06/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,13080
+06/01/2024,NYCT,MTAPD,Fare Evasion Summons,272
+06/01/2024,LIRR,MTAPD,Arrests,149
+06/01/2024,LIRR,MTAPD,All Other Criminal Summons,108
+06/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,252
+06/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,33
+06/01/2024,MNR,MTAPD,Arrests,116
+06/01/2024,MNR,MTAPD,All Other Criminal Summons,86
+07/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,888
+07/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,12877
+07/01/2024,NYCT Subway,NYPD,All Other Summons,5167
+07/01/2024,NYCT Subway,NYPD,Other Arrests,968
+07/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,170
+07/01/2024,NYCT,MTAPD,Fare Evasion Summons,262
+07/01/2024,LIRR,MTAPD,Arrests,187
+07/01/2024,LIRR,MTAPD,All Other Criminal Summons,301
+07/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,392
+07/01/2024,MNR,MTAPD,All Other Criminal Summons,266
+07/01/2024,MNR,MTAPD,Arrests,89
+07/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,35
+08/01/2024,NYCT Subway,NYPD,Other Arrests,1074
+08/01/2024,NYCT Subway,NYPD,Fare Evasion Criminal Summons,143
+08/01/2024,NYCT Subway,NYPD,Fare Evasion TABS Summons,13319
+08/01/2024,NYCT Subway,NYPD,Fare Evasion Arrests,1066
+08/01/2024,NYCT Subway,NYPD,All Other Summons,5687
+08/01/2024,NYCT,MTAPD,Fare Evasion Summons,470
+08/01/2024,LIRR,MTAPD,All Other Criminal Summons,492
+08/01/2024,LIRR,MTAPD,Fare Evasion Criminal Summons,294
+08/01/2024,LIRR,MTAPD,Arrests,188
+08/01/2024,MNR,MTAPD,All Other Criminal Summons,352
+08/01/2024,MNR,MTAPD,Fare Evasion Criminal Summons,30
+08/01/2024,MNR,MTAPD,Arrests,85
