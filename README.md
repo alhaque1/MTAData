@@ -16,3 +16,12 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-
 Here is another link that contains all the complaints from the NYPD the dataset contains approximately 9 millions
 
 https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data
+
+
+Here is a link that contains ridership data of all times (I believe..)
+
+https://data.ny.gov/Transportation/MTA-Monthly-Ridership-Traffic-Data-Beginning-Janua/xfre-bxip/about_data
+
+Here is a link to some articles (I've found) 
+
+https://injepijournal.biomedcentral.com/articles/10.1186/s40621-024-00501-9
